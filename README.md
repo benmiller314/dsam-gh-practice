@@ -17,7 +17,7 @@ To **fork** a repo is to _make a copy_ of it: all the files, and – importantly
 
 Importantly, once you've forked a copy of a repo, you now have a version of it _that you control_. The web address of that repo, for example, will change to show your username, rather than the original owner's.
 
-NB: For this exercise you can work alone or in pairs. If you're working in pairs, you'll want one partner to fork my repository, and the other to fork that fork. This will make it easier to combine your forks later on without worrying about overlapping with other groups in the original benmiller314 repo.
+NB: For this exercise you can work alone or in pairs. If you're working in pairs, you'll want one partner to fork my repository, and the other to fork that fork. (You can find it in the [list of forks](https://github.com/benmiller314/dsam-gh-practice/forks).) This will make it easier to combine your forks later on without worrying about overlapping with other groups in the original benmiller314 repo.
 
 Go ahead and make your fork, using the button at the top right. ![location of fork button in github](img/github-fork-button.png)
 
